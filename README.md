@@ -39,7 +39,3 @@
 <br />
 
 
-[![The language I use a lot](https://github-readme-stats.vercel.app/api/top-langs/?username=Tae2u2&layout=compact&theme=tokyonight)](https://github.com/Taeu2/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tae2u2&show_icons=true&theme=tokyonight)](https://github.com/Tae2u2/github-readme-stats)
-
