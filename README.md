@@ -2,9 +2,8 @@
 #### 안녕하세요. 웹 프론트엔드 주니어 개발자 강태이입니다.
 
 <br />
+➡️포트폴리오 : https://tae2u2.github.io/taeiPortfolio/
 💚블로그 : https://velog.io/@tae2u2
-<br />
-블로그에 지난 8월부터 학습한 내용을 조금씩 적고 있습니다.
 <br />
 
 
