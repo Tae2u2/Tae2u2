@@ -3,6 +3,7 @@
 
 <br />
 ➡️포트폴리오 : https://tae2u2.github.io/taeiPortfolio/
+<br />
 💚블로그 : https://velog.io/@tae2u2
 <br />
 
